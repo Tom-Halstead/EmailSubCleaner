@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [https://your-deployment-link.com](https://your-deployment-link.com) *(Coming soon)*
+🔗 [https://your-deployment-link.com] *(Coming soon)*
 
 ---
 
