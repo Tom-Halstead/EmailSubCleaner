@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [https://your-deployment-link.com] *(Coming soon)*
+🔗 [https://deployment-link.com] *(Coming soon)*
 
 ---
 
@@ -20,7 +20,7 @@
 | **Backend**    | Spring Boot (Java 17), Maven                                        |
 | **API**        | REST (JSON)                                                         |
 | **Build**      | npm, Maven                                                          |
-| **Deployment** | Render / Railway / Heroku / Vercel / Netlify (Choose your platform) |
+| **Deployment** | Netlify |
 
 ---
 
